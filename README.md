@@ -15,7 +15,7 @@ And these are what provided by this environment:
 
 # Setting up sites
 
-There is a demo-site included in this project, got guide you set up your sites. It's actually simple:
+There is a demo-site included in this project, to guide you set up your sites. It's actually simple:
 
 1. Firstly, put your site project folder under `www/`
 2. Secondly, add an virtual host config under `conf/nginx/conf.d/`, you can just copy `demo-site.conf` and do a few tweeks to save some time.
@@ -29,6 +29,7 @@ I won't go into detail of setting up XDebug, But basicaly, It follows these step
 1. install and configure XDebug into your sites server (Done for you)
     
 2. install and configure your IDE/Editor.
+
     There are two things worth noting: 
     a. The idekey should be `xdbg` the same as set in  `xdebug.ini` file
     b. You MUST set your `path_mapping` correctly
