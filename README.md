@@ -31,9 +31,9 @@ I won't go into detail of setting up XDebug, But basicaly, It follows these step
 2. install and configure your IDE/Editor.
 
     There are two things worth noting: 
-    a. The idekey should be `xdbg` the same as set in  `xdebug.ini` file
-    b. You MUST set your `path_mapping` correctly
-    c. And `port` to `9000`
+    - The idekey should be `xdbg` the same as set in  `xdebug.ini` file
+    - You MUST set your `path_mapping` correctly
+    - And `port` to `9000`
 
     I'm using Sublime Text with its pacakge Xdebug Client, and the whole setting is something like:
 
