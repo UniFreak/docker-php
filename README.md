@@ -35,7 +35,7 @@ I won't go into detail of setting up XDebug, But basicaly, It follows these step
     - You MUST set your `path_mapping` correctly
     - And `port` to `9000`
 
-    I'm using Sublime Text with its pacakge Xdebug Client, and the whole setting is something like:
+    I'm using Sublime Text with its pacakge Xdebug Client, and the setting is something like:
 
     ```json
     "path_mapping": {
