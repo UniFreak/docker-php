@@ -47,3 +47,7 @@ I won't go into detail of setting up XDebug, But basicaly, It follows these step
     ```
 
 3. Install the browser's plugin, enable debug and start debugging.
+
+# Build & Run
+
+Finally, run `docker-compose build` and `docker-compose run` to bring it alive.
