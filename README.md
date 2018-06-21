@@ -1,8 +1,10 @@
 As this project's name suggests, this is yet another dockerized PHP development environment. I build this only to aid my own development purpose, so it's rather a very simple and basic one. But it might help those who are satisfied by these things:
 
-- Dev in Mac (or NOT)
+- ~~Dev in Mac (or NOT)~~
 
     There is a script that will use docker's special DNS name `host.docker.internal`( see <https://docs.docker.com/docker-for-mac/networking/>), according to the doc, this DNS name might only be available in Docker for Mac, so this might or might not be a requirment...
+
+    Update: confirmed from <https://docs.docker.com/docker-for-windows/networking/>, Windows docker also has the `host.docker.internal` DNS name. So this is no longer a requirment. :)
 
 - Use PHP5.6
 
