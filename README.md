@@ -1,4 +1,4 @@
-如果你使用汉语, 见 <https://github.com/UniFreak/docker-php/blob/master/README.cn.yml>
+如果你使用汉语, 见 <https://github.com/UniFreak/docker-php/blob/master/README.cn.md>
 
 As this project's name suggests, this is yet another dockerized PHP development environment. I build this only to aid my own development purpose, so it's rather a very simple and basic one. But it might help those who are satisfied by these things:
 
