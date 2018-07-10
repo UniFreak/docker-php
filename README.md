@@ -21,9 +21,9 @@ And these are what provided by this environment:
 
 There is a demo-site included in this project, to guide you set up your sites. It's actually simple:
 
-1. Firstly, put your site project folder under `www/`
-2. Secondly, add an virtual host config under `conf/nginx/conf.d/`, you can just copy `demo-site.conf` and do a few tweeks to save some time.
-3. Then, don't forget to add an entry into your system's `host` file!
+1. put your site project folder under `www/`
+2. add a virtual host config under `conf/nginx/conf.d/`, you can just copy `demo-site.conf` and do a few tweeks to save some time.
+3. don't forget to add an entry into your system's `host` file!
 
 Done. Your sites are all set.
 
