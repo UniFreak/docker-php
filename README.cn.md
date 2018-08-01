@@ -52,4 +52,4 @@
 
 # 构建 & 运行
 
-最后, 运行 `docker-compose build` 以及 `docker-compose run` 来让容器运行吧, 你可以在浏览器中访问 docker 容器中的网站了.
+最后, 运行 `docker-compose build` 以及 `docker-compose up` 来让容器运行吧, 你可以在浏览器中访问 docker 容器中的网站了.
