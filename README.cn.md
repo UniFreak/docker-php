@@ -2,9 +2,9 @@
 
 - ~~在 Mac 上开发~~
 
-    这个项目会用到 `host.docker.internal` 这个特殊的 DNS 名, 参见 <<https://docs.docker.com/docker-for-mac/networking/>, 看文档貌似只有 Docker for Mac 才会有, 所以这也许是, 也许不是一个必须条件...
+    ~~这个项目会用到 `host.docker.internal` 这个特殊的 DNS 名, 参见 <<https://docs.docker.com/docker-for-mac/networking/>, 看文档貌似只有 Docker for Mac 才会有, 所以这也许是, 也许不是一个必须条件...~~
 
-    更新: 从 <https://docs.docker.com/docker-for-windows/networking/> 这里来看, Windows Docker 也有 `host.docker.internal`, 所以你也可以在 Windows 使用这个项目啦. :)
+    更新: 从 <https://docs.docker.com/docker-for-windows/networking/> 这里来看, Windows Docker 也有 `host.docker.internal`, 所以你也可以在 Windows 使用这个项目
 
 - 使用 PHP5.6
 
